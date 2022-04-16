@@ -25,7 +25,8 @@ This involved creating a dataframe from the CSV file and maping using Google Map
 Vacation Itinerary
 
 This involved creating a route connecting the client's four vacation city preferences  on the Google Maps interface.
-
-
-
+ ![](Vacation_Itinerary/WeatherPy_travel_map_markers.png) 
+Shows the four selected vacation destinations.
+ ![](Vacation_Itinerary/WeatherPy_travel_map.png)
+Shows the route connecting these destination.
 
