@@ -19,6 +19,8 @@ This involved pulling of the following data from over 700 different cities aroun
 Vacation Search
 
 This involved creating a dataframe from the CSV file and maping using Google Maps API based on client's minimum and maximum heat preference to display the pertinent information for the various hotels markers on Google Maps interface.
+![](Vacation_search/WeatherPy_Vacation)
+
 
 Vacation Itinerary
 
